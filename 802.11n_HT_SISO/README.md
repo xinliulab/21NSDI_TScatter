@@ -1,4 +1,8 @@
+<a id="english"></a>
+
 # 802.11n HT SISO TScatter Simulations
+
+Language: [English](#english) | [中文](#chinese)
 
 This folder contains the packet-level 802.11n HT 20 MHz SISO simulations for
 both Full TScatter and Lite TScatter.
@@ -99,7 +103,11 @@ count.
 
 ---
 
+<a id="chinese"></a>
+
 # 802.11n HT SISO TScatter 仿真
+
+语言： [English](#english) | [中文](#chinese)
 
 这个文件夹包含 Full TScatter 和 Lite TScatter 在 802.11n HT 20 MHz SISO
 上的 packet-level 仿真。
