@@ -17,3 +17,4 @@ Thumbs.db
 *.exe
 *.m~
 .DS_Store
+.claude/

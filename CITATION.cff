@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or build on TScatter, please cite the NSDI 2021 paper."
+title: "TScatter MATLAB Simulations"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xin
+  - family-names: Chi
+    given-names: Zicheng
+  - family-names: Wang
+    given-names: Wei
+  - family-names: Yao
+    given-names: Yao
+  - family-names: Hao
+    given-names: Pei
+  - family-names: Zhu
+    given-names: Ting
+license: MIT
+repository-code: "https://github.com/xinliulab/21NSDI_TScatter"
+url: "https://www.usenix.org/conference/nsdi21/presentation/liu-xin"
+preferred-citation:
+  type: conference-paper
+  title: "Verification and Redesign of OFDM Backscatter"
+  authors:
+    - family-names: Liu
+      given-names: Xin
+    - family-names: Chi
+      given-names: Zicheng
+    - family-names: Wang
+      given-names: Wei
+    - family-names: Yao
+      given-names: Yao
+    - family-names: Hao
+      given-names: Pei
+    - family-names: Zhu
+      given-names: Ting
+  collection-title: "18th USENIX Symposium on Networked Systems Design and Implementation (NSDI 21)"
+  year: 2021
+  month: 4
+  start: 939
+  end: 953
+  publisher:
+    name: "USENIX Association"
+  url: "https://www.usenix.org/conference/nsdi21/presentation/liu-xin"
